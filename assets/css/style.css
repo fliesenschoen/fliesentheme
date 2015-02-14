@@ -364,14 +364,11 @@ div.header a.logo {
   position: relative;
   width: 85px;
   height: 85px;
-  border: 10px solid #ffffff;
+  border: 6px solid #ffffff;
   background-color: #000000;
   margin: 0 auto;
-  margin-top: 80px;
   text-align: center;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
+
 }
 div.header a.logo:hover {
   background-color: #1abc9c;
