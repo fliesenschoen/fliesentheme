@@ -234,10 +234,10 @@ input[type="button"].btn {
 }
 a {
   text-decoration: none;
-  color: #1abc9c;
+  color: #d8232a;
 }
 a:visited {
-  color: #1abc9c;
+  color: #d8232a;
 }
 a:hover {
   color: #000000;
