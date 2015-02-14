@@ -629,7 +629,7 @@ div.post p.back {
 }
 div.post p.read-more a,
 div.post p.back a {
-  color: #1abc9c;
+  color: #d8232a;
 }
 div.post p.read-more a:hover,
 div.post p.back a:hover {
@@ -647,7 +647,7 @@ div.post p.comments a {
   color: #999999;
 }
 div.post p.comments a:hover {
-  color: #1abc9c;
+  color: #d8232a;
 }
 div.post h1 {
   font-size: 38px;
