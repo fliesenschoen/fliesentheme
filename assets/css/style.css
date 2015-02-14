@@ -376,9 +376,7 @@ div.header a.logo:hover {
   background-color: #1abc9c;
 }
 div.header a.logo img {
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
+  border-radius: 0px;
 }
 div.header a.logo i {
   position: relative;
