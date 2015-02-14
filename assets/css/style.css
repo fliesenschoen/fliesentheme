@@ -362,11 +362,11 @@ div.header div.site-description ul li a.active {
 div.header a.logo {
   display: block;
   position: relative;
-  width: 85px;
-  height: 85px;
-  border-left: 5px solid #ffffff;
-  border-right: 5px solid #ffffff;
-  border-bottom: 5px solid #ffffff;
+  width: 150px;
+  height: 150px;
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
   background-color: #000000;
   margin: 0 auto;
   text-align: center;
